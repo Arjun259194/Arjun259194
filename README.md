@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Arjun259194
 - 🙃 I am a computer engineering student in INDIA.
-- 👀 I’m interested in programming,i guess.
+- 👀 I’m interested in programming.
 - 🌱 I’m currently learning Javascript
 - 📫 How to reach me Email:- arjun259194@gmail.com
 
