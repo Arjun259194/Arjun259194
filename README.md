@@ -14,7 +14,6 @@
 
 I'm a passionate **Full-Stack Developer** from **Ahmedabad, Gujarat, India** 🇮🇳 with 4+ years of experience building fast, minimal, and offline-capable applications. I love bridging design with solid engineering and enjoy creating developer tools that solve real problems!
 
-- 🔭 I'm currently working on **CLI Postman alternative** and **image recoloring tools**
 - 🌱 I'm learning **Rust** for performance-critical systems
 - 👯 I'm looking to collaborate on **open-source projects** and **developer tools**
 - 💬 Ask me about **React, TypeScript, Next.js, Tailwind, and system optimization**
